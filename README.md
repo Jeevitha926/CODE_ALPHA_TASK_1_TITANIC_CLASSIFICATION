@@ -75,7 +75,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/titanic-classification.git
+   git clone https://github.com/Jeevitha926/titanic-classification.git
    
 2. Navigate to the project directory and open the Jupyter Notebook:
    bash
